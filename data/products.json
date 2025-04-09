@@ -1,4 +1,14 @@
 [
+{
+    "name": "Quora",
+    "country_code": "US",
+    "alternatives": [
+      {
+        "name": "Fedni",
+        "country_code": "EG",
+        "link": "https://www.fedni.net/"
+      },
+
   {
     "name": "Adobe Photoshop",
     "country_code": "US",
